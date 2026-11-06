@@ -1,0 +1,30 @@
+{
+  "title": "Object-Centric Structural Reasoning and Evolution (OCSRE): Research Framework and Contracts",
+  "upload_type": "software",
+  "description": "<p>OCSRE is a proposed object-centric structural intelligence research framework connecting typed object identity, metrics and perspectives, an Object Differential Kernel (ODK), contract-governed Object Plugins, bounded reasoning, SQL-to-WE semantic adaptation, in-situ feedback, WE-native Constrained Delta Evolution (CDE), SIF localization, capability relay, and open-ended structural evolution.</p><p>The v1.0.0 research-framework baseline includes conceptual papers, interface specifications and contracts, illustrative cases, research-trace registries, figures, and falsifiable hypotheses with validation plans. It is a research proposal and documentation baseline, not a claim of a validated implementation, proven cross-domain generalization, or an established scaling law. The OCSH-001 through OCSH-011 hypotheses remain at E0 (Proposed) pending empirical evaluation and independent replication.</p><p>Repository: <a href=\"https://github.com/sizhet/Object-Centric-Structural-Reasoning-and-Evolution\">Object-Centric Structural Reasoning and Evolution</a>. Please cite the version-specific archived release DOI when one has been assigned.</p>",
+  "creators": [
+    {
+      "name": "Tan, Sizhe"
+    },
+    {
+      "name": "GPT-Obot",
+      "affiliation": "OpenAI AI assistant (collaborative drafting attribution)"
+    }
+  ],
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": [
+    "structural intelligence",
+    "object-centric reasoning",
+    "object differential kernel",
+    "constrained delta evolution",
+    "typed contracts",
+    "conformance",
+    "in-situ learning",
+    "capability relay",
+    "collective structural learning",
+    "AI-generated code governance"
+  ],
+  "language": "eng"
+}
