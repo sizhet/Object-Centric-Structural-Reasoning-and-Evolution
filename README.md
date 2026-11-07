@@ -215,7 +215,12 @@ Figures are **conceptual illustrations**, not formal proofs or evidence of imple
 **Release:** v1.0.0 — Research Framework and Contracts  
 **License:** Apache-2.0  
 
-Use [`CITATION.cff`](CITATION.cff) and [`.zenodo.json`](.zenodo.json) once their release metadata is finalized. **Do not invent a DOI**; add the actual DOI only after the archival release and registration. The repository is intended as a research framework and contract reference, not a certified safety system, deployed autonomous agent, or production-ready code governance tool.
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
 
 ---
 
