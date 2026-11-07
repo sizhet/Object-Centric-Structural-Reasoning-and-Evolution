@@ -74,8 +74,8 @@ Validated capability transfer is distinguished from untargeted spillover and fro
 
 ## 3. Start reading
 
-- **New readers:** [START-HERE.md](START-HERE.md) (guided reading path; planned root navigation asset).
-- **Complete document index:** [CONTENTS.md](CONTENTS.md) (planned root navigation asset).
+- **New readers:** [START-HERE.md](START-HERE.md) (guided reading path; root navigation asset).
+- **Complete document index:** [CONTENTS.md](CONTENTS.md) (root navigation asset).
 - **Foundational thesis:** [OCSRE-001](docs/OCSRE-001-The-Object-Centric-Structural-Intelligence-Thesis.md).
 - **Contract-first entry:** [SPEC-001](specs/SPEC-001-Object-Identity-Perspective-and-State-Contract.md), [SPEC-002](specs/SPEC-002-Object-Differential-Kernel-and-Comparator-Contract.md), and [SPEC-006](specs/SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md).
 - **Concrete examples:** [CASE-001](cases/CASE-001-Person-and-Classical-Reasoning.md), [CASE-002](cases/CASE-002-SQL-Native-Object-Adaptation.md), [CASE-003](cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md), [CASE-004](cases/CASE-004-Transaction-and-Compositional-Identity.md), [CASE-005](cases/CASE-005-Cross-Domain-Object-Plugin-Relay.md), [CASE-006](cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md).

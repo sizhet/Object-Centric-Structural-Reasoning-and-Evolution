@@ -239,7 +239,7 @@ A provenance-bearing report about an observation, outcome, correction, or evalua
 
 ### DEF-036 — Explicit Leftover / Residual
 
-A named unresolved requirement, ambiguity, failed case, missing evidence, or deferred design decision that remains visible to future work. **Boundary:** a leftover is not a completed feature; documenting it does not resolve it. **Sources:** all SPECs, `UNRESOLVED-RESIDUALS.md` (planned).
+A named unresolved requirement, ambiguity, failed case, missing evidence, or deferred design decision that remains visible to future work. **Boundary:** a leftover is not a completed feature; documenting it does not resolve it. **Sources:** all SPECs, `UNRESOLVED-RESIDUALS.md`.
 
 **Read more:** [`DEF-036` in the Definition Registry](research-trace/DEFINITION-REGISTRY.md#def-036--explicit-leftover--residual).
 
@@ -386,7 +386,7 @@ A controlled process for proposing and reviewing policy changes with separate au
 
 ### DEF-059 — Structural Capability Spillover
 
-A hypothesized benefit of a structural capability outside its original target scope, established only through predeclared independent tasks, suitable controls, and resource-accounted evaluation. **Boundary:** planned cross-domain reuse ≠ untargeted spillover. **Sources:** OCSRE-011/012, EXT-005, OCSH-009.
+A hypothesized benefit of a structural capability outside its original target scope, established only through predeclared independent tasks, suitable controls, and resource-accounted evaluation. **Boundary:** cross-domain reuse ≠ untargeted spillover. **Sources:** OCSRE-011/012, EXT-005, OCSH-009.
 
 **Read more:** [`DEF-059` in the Definition Registry](research-trace/DEFINITION-REGISTRY.md#def-059--structural-capability-spillover).
 

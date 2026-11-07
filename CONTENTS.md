@@ -4,8 +4,6 @@
 **Scope:** Research architecture, contracts, synthetic case studies, extensions, and research trace  
 **Evidence status:** OCSH-001–OCSH-011 remain E0 / proposed; no empirical validation or scaling law is claimed.
 
-> **Repository assembly note.** This index follows the canonical planned directory structure. Files already drafted in this workspace must be placed in their designated GitHub directories before the relative links will resolve. Items marked **planned** have not yet been authored in the current authoring sequence. A drafted document is not an implemented or validated system.
-
 ## Quick entry points
 
 - [README — Research overview](README.md)
@@ -111,9 +109,9 @@ Conceptual illustrations for navigation and explanation; figure artwork is not e
 
 Publication assets to be finalized only after metadata, links, licensing, and release claims are checked.
 
-- [GitHub Release Notes v1.0.0](release/GitHub-Release-Notes-v1.0.0.md) **(planned)**
-- [ResearchGate Description](release/ResearchGate-Description.txt) **(planned)**
-- [OCSRE v1.0.0 ResearchGate Overview](release/OCSRE-v1.0.0-ResearchGate-Overview.pdf) **(planned)**
+- [GitHub Release Notes v1.0.0](release/GitHub-Release-Notes-v1.0.0.md)
+- [ResearchGate Description](release/ResearchGate-Description.txt)
+- [OCSRE v1.0.0 ResearchGate Overview](release/OCSRE-v1.0.0-ResearchGate-Overview.pdf)
 
 ## 9. Suggested reading sequences
 
@@ -130,7 +128,7 @@ Publication assets to be finalized only after metadata, links, licensing, and re
 1. [SPEC-001](specs/SPEC-001-Object-Identity-Perspective-and-State-Contract.md) → [SPEC-002](specs/SPEC-002-Object-Differential-Kernel-and-Comparator-Contract.md) → [SPEC-003](specs/SPEC-003-Classical-Reasoning-Preservation-and-Granularity-Contract.md).
 2. [SPEC-004](specs/SPEC-004-Object-Plugin-and-Capability-Composition-Contract.md) → [SPEC-005](specs/SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md) → [SPEC-006](specs/SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md).
 3. [DEFINITION-REGISTRY](research-trace/DEFINITION-REGISTRY.md) → [COUNTEREXAMPLE-REGISTRY](research-trace/COUNTEREXAMPLE-REGISTRY.md) → [UNRESOLVED-RESIDUALS](research-trace/UNRESOLVED-RESIDUALS.md).
-4. Proposed test plans: [TESTABLE-HYPOTHESES](TESTABLE-HYPOTHESES.md) and [VALIDATION-ROADMAP](VALIDATION-ROADMAP.md) (**planned**).
+4. Proposed test plans: [TESTABLE-HYPOTHESES](TESTABLE-HYPOTHESES.md) and [VALIDATION-ROADMAP](VALIDATION-ROADMAP.md).
 
 ### C. Domain-focused entry points
 
@@ -182,9 +180,9 @@ All eleven remain **E0 / proposed** in this release track. The [hypothesis regis
 | Figures | 8 |
 | Root-level files | 13 |
 | Release assets | 3 |
-| **Total in planned repository tree** | **58** |
+| **Total in repository tree** | **58** |
 
-The total counts *planned repository entries*, not completed verification or release readiness.
+The total counts *repository entries*, not completed verification or release readiness.
 
 ---
 

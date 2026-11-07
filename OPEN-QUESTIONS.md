@@ -252,8 +252,8 @@ This file does not establish a universal object ontology, a complete formal logi
 - [COUNTEREXAMPLE-REGISTRY.md](research-trace/COUNTEREXAMPLE-REGISTRY.md) — adversarial cases and failure records.
 - [DECISION-LOG.md](research-trace/DECISION-LOG.md) — revisable architectural choices.
 - [UNRESOLVED-RESIDUALS.md](research-trace/UNRESOLVED-RESIDUALS.md) — operational unresolved backlog.
-- [TESTABLE-HYPOTHESES.md](TESTABLE-HYPOTHESES.md) — proposed test protocols (planned repository asset).
-- [VALIDATION-ROADMAP.md](VALIDATION-ROADMAP.md) — proposed execution stages (planned repository asset).
+- [TESTABLE-HYPOTHESES.md](TESTABLE-HYPOTHESES.md) — proposed test protocols.
+- [VALIDATION-ROADMAP.md](VALIDATION-ROADMAP.md) — proposed execution stages.
 
 The intended next step is to turn a small number of these questions into **frozen, executable, independently reviewable experiments**, rather than interpreting the number of questions as evidence of progress.
 

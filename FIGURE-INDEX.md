@@ -8,7 +8,7 @@
 
 ## 1. Purpose and conventions
 
-This index catalogs the eight planned OCSRE conceptual figures and recommends placements within the research papers. Figures are explanatory maps, not formal proofs, executable specifications, performance measurements, or empirical demonstrations. The authoritative semantics remain in the corresponding papers, specifications, and the [Definition Registry](research-trace/DEFINITION-REGISTRY.md).
+This index catalogs the eight OCSRE conceptual figures and recommends placements within the research papers. Figures are explanatory maps, not formal proofs, executable specifications, performance measurements, or empirical demonstrations. The authoritative semantics remain in the corresponding papers, specifications, and the [Definition Registry](research-trace/DEFINITION-REGISTRY.md).
 
 All paths below are relative to the repository root. The image files belong in `figures/`; research papers belong in `docs/`, case studies in `cases/`, and extensions in `extensions/`. Suggested insertions are editorial recommendations, not claims that the images have already been embedded in every paper.
 
