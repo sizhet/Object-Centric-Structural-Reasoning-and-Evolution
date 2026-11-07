@@ -300,7 +300,7 @@ The principal empirical question is whether shared object interfaces reduce inte
 
 Relevant repository hypotheses are **OCSH-002** (reusable ODK), **OCSH-003** (plugin adaptation cost), **OCSH-005** (single/composite CDE), **OCSH-006** (cross-granularity contracts), **OCSH-007** (SQL-to-WE adaptation), **OCSH-008** (validated relay), **OCSH-009** (untargeted gains), and **OCSH-011** (code-governance localization). None is considered validated by this paper. Pre-register datasets, splits, metrics, error budgets, and success thresholds before experimental claims. Where a baseline outperforms OCSRE, preserve that result as an explicit negative finding.
 
-## 20. Relationship to planned specifications, cases, and extensions
+## 20. Relationship to specifications, cases, and extensions
 
 | Artifact | Relationship |
 |---|---|
@@ -349,6 +349,6 @@ OCSRE proposes a common **object-level contract surface** through which UTN, MDT
 
 ---
 
-**Figure note:** The repository blueprint assigns no new dedicated figure to OCSRE-010. The planned `Fig-001-OCSRE-Grand-Architecture.png`, `Fig-003-Object-Metric-Perspective-and-State.png`, and `Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png` may be cross-referenced *after* those assets exist. No figure is represented here as completed.
+**Figure note:** The repository blueprint assigns no new dedicated figure to OCSRE-010. The `Fig-001-OCSRE-Grand-Architecture.png`, `Fig-003-Object-Metric-Perspective-and-State.png`, and `Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png` may be cross-referenced *after* those assets exist.
 
 **Research status:** Conceptual architecture and proposed conformance obligations only. No benchmark, formal proof of algorithmic equivalence, runtime guarantee, or validated scaling law is claimed.

@@ -281,11 +281,11 @@ An evaluation should include at least two distinct SQL dialects or schemas, a no
 - `../specs/SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md`
 - `../specs/SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md`
 
-**Primary planned evaluation case:** `../cases/CASE-002-SQL-Native-Object-Adaptation.md`. Related cases: `CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`, `CASE-005-Cross-Domain-Object-Plugin-Relay.md`, and `CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md`.
+**Primary evaluation case:** `../cases/CASE-002-SQL-Native-Object-Adaptation.md`. Related cases: `CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`, `CASE-005-Cross-Domain-Object-Plugin-Relay.md`, and `CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md`.
 
 **Figure insertion point:** Place `Fig-005-SQL-to-WE-Attribute-Transformation.png` after Section 7 once created. No figure asset is asserted to exist yet.
 
-These filenames are planned repository interfaces; their mention does not imply they have been authored or validated.
+These filenames are repository interfaces; their mention does not imply they have been authored or validated.
 
 ## 18. Explicit leftovers and open research questions
 

@@ -172,7 +172,7 @@ Promotion contracts should therefore distinguish **logical undo**, **compensatin
 
 **Negative example:** route A loses a vehicle and appears better, but a student is now assigned twice. The Delta must fail composite validation even if the ODK fleet score improves. **Residual:** uncertain travel-time estimate is carried forward with source and confidence rather than silently converted into a deterministic guarantee.
 
-See planned `../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`.
+See `../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`.
 
 ## 12. Worked case B: transaction and compositional identity
 
@@ -180,7 +180,7 @@ See planned `../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`.
 
 **Evaluation:** evidence consistency, alternative explanations, temporal fit, provenance and calibration. **Negative example:** a shared IP address is treated as definitive common ownership; the proposed identity merge must be rejected or retained as explicitly uncertain. This is epistemic state evolution, not operational transfer of assets.
 
-See planned `../cases/CASE-004-Transaction-and-Compositional-Identity.md`.
+See `../cases/CASE-004-Transaction-and-Compositional-Identity.md`.
 
 ## 13. Worked case C: AI-generated-code governance
 
@@ -188,7 +188,7 @@ See planned `../cases/CASE-004-Transaction-and-Compositional-Identity.md`.
 
 **Validation:** type/build checks, static and dynamic analyses where appropriate, security constraints, contract checks, targeted and broad regression tests, and human approval for consequential changes. **Negative example:** all direct callers pass tests, but an indirect dataflow violates a security invariant; the candidate must not be promoted on Calling Graph evidence alone. A repository merge, deployment and irreversible external effect require separate authority gates.
 
-See planned `../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md`.
+See `../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md`.
 
 ## 14. Object Plugins and capability composition
 
@@ -264,14 +264,14 @@ Suggested baselines include domain-specific scheduling/search implementations, o
 - `OCSRE-005-Object-Plugins-and-Composable-Intelligence-Capabilities.md`: typed capability composition.
 - `OCSRE-006-SQL-to-Object-Attribute-Transformation-and-Semantic-Alignment.md`: SQL adapter semantics and security.
 - `OCSRE-007-In-Situ-Object-Learning-Decision-and-Feedback.md`: learning/decision separation.
-- `OCSRE-009-Epistemic-Separation-and-Object-Centric-Evidence-Governance.md` (planned): evidence status and promotion governance.
-- `OCSRE-010-UTN-WE-HDT-and-SIF-Localization-Through-Shared-Object-Interfaces.md` (planned): localization interfaces.
-- `OCSRE-011-Object-Capability-Spillover-Relay-and-Collective-Structural-Learning.md` (planned): validated transfer.
-- `../specs/SPEC-001-Object-Identity-Perspective-and-State-Contract.md` and `../specs/SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md` (planned): normative contract targets.
-- `../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`, `../cases/CASE-004-Transaction-and-Compositional-Identity.md`, `../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md` (planned): application tests.
-- `../extensions/EXT-003-Multi-Agent-Object-Intelligence-and-Relay.md` and `../extensions/EXT-005-Structural-Capability-Spillover-and-Scaling-Hypotheses.md` (planned): further exploration.
+- `OCSRE-009-Epistemic-Separation-and-Object-Centric-Evidence-Governance.md`: evidence status and promotion governance.
+- `OCSRE-010-UTN-WE-HDT-and-SIF-Localization-Through-Shared-Object-Interfaces.md`: localization interfaces.
+- `OCSRE-011-Object-Capability-Spillover-Relay-and-Collective-Structural-Learning.md`: validated transfer.
+- `../specs/SPEC-001-Object-Identity-Perspective-and-State-Contract.md` and `../specs/SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md`: normative contract targets.
+- `../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`, `../cases/CASE-004-Transaction-and-Compositional-Identity.md`, `../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md`: application tests.
+- `../extensions/EXT-003-Multi-Agent-Object-Intelligence-and-Relay.md` and `../extensions/EXT-005-Structural-Capability-Spillover-and-Scaling-Hypotheses.md`: further exploration.
 
-**Figure insertion point:** `../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png` (planned; not yet created). Suggested panels: WE identity and perspective anchors; composite State-Container; typed Delta generation; sandbox and validation gates; promotion/commit boundary; feedback and relay.
+![WE-Native CDE and Composite State Evolution](../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png)
 
 ## 20. Explicit leftovers and open questions
 

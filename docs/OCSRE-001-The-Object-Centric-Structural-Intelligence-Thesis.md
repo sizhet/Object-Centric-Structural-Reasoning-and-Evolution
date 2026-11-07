@@ -205,7 +205,7 @@ OCSRE adopts **Specifications/Contracts First**, **Conformance Before Runtime**,
 
 **P2 — Runtime exploration.** Implementations, agents, and optimization experiments may follow after interfaces and test criteria are sufficiently stable.
 
-The six planned normative specification documents are `SPEC-001` through `SPEC-006`. This thesis motivates them but does not supersede their eventual precise definitions.
+The six normative specification documents are `SPEC-001` through `SPEC-006`. This thesis motivates them but does not supersede their eventual precise definitions.
 
 ## 13. Evaluation design
 
@@ -236,4 +236,4 @@ OCSRE proposes an **object-centered interface layer for structural intelligence*
 
 ---
 
-**Research status:** Proposed / E0. **Primary planned figure:** Fig-001. **Next paper:** `OCSRE-002-From-Classical-Syllogism-to-Object-Centric-Structural-Reasoning.md`.
+**Research status:** Proposed / E0. **Primary figure:** Fig-001. **Next paper:** `OCSRE-002-From-Classical-Syllogism-to-Object-Centric-Structural-Reasoning.md`.

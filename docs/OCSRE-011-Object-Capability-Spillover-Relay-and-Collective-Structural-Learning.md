@@ -334,7 +334,7 @@ All phases should specify datasets, seeds, budgets, baselines, thresholds, confi
 | `research-trace/COUNTEREXAMPLE-REGISTRY.md` | Negative cases and regression evidence |
 | `research-trace/UNRESOLVED-RESIDUALS.md` | Open failures, uncertainty, and deferred work |
 
-These paths are planned cross-references; the presence of a filename in this table does not assert that its companion asset has already been authored.
+These paths are cross-references; the presence of a filename in this table does not assert that its companion asset has already been authored.
 
 **Planned figure:** `figures/Fig-008-Object-Capability-Spillover-Relay-and-Collective-Learning.png` (not yet generated). Suggested placement: after Section 8, showing Object/ODK/Plugin sources, relay qualification gates, target-domain validation, feedback loops, and negative-transfer residuals. Distinguish *hypothesized spillover* from *validated transfer* visually.
 

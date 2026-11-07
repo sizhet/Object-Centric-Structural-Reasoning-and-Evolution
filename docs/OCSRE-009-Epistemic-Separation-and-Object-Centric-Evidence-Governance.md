@@ -236,7 +236,7 @@ Candidate metrics include: epistemic-class confusion rate; provenance completene
 
 A negative result, including governance overhead exceeding benefit, should be recorded rather than hidden.
 
-## 18. Interfaces to planned repository artifacts
+## 18. Interfaces to repository artifacts
 
 | Artifact | Intended interface |
 |---|---|
@@ -251,7 +251,7 @@ A negative result, including governance overhead exceeding benefit, should be re
 | `research-trace/UNRESOLVED-RESIDUALS.md` | Uncertainty, blocked promotions, and open anomalies |
 | `VALIDATION-ROADMAP.md` | Planned conformance and empirical test phases |
 
-The planned figure `Fig-006-In-Situ-Object-Intelligence-Loop.png` is relevant to evidence revision, while `Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png` is relevant to promotion gates. No additional figure is claimed as completed here.
+The figure `Fig-006-In-Situ-Object-Intelligence-Loop.png` is relevant to evidence revision, while `Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png` is relevant to promotion gates. No additional figure is claimed as completed here.
 
 ## 19. Explicit leftovers and open questions
 
@@ -283,5 +283,5 @@ OCSRE's object-centered architecture is only as trustworthy as the boundaries be
 ---
 
 **Research status:** E0 / proposed. No formal correctness proof, deployment, empirical benchmark, or scaling law is asserted.  
-**Primary companion:** `SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md` (planned).  
+**Primary companion:** `SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md`.  
 **Next core paper:** `OCSRE-010-UTN-WE-HDT-and-SIF-Localization-Through-Shared-Object-Interfaces.md`.

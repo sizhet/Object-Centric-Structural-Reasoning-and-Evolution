@@ -252,13 +252,13 @@ Object assertions ── identity / type / scope / provenance contracts
                  promoted / rejected / residual
 ```
 
-**Figure insertion:** `../figures/Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png` is the planned primary illustration. The PNG is not included or claimed as complete in this document.
+**Figure insertion:** `../figures/Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png` is the primary illustration. The PNG is not included or claimed as complete in this document.
 
 OCSRE reuses WE-SIO identity and object semantics, UTN/MDT/WE-HDT addressing and differential localization, SIF's structural-intelligence context, CDE's constrained state evolution, and UIERU/ISGFTR's relay and spillover research framing. These are interface relationships, **not assertions of algorithmic equivalence**. MLIU and other prior pieces may be integrated through separately specified adapters rather than assumed dependencies.
 
 ## 12. Contract-first conformance requirements
 
-The definitive contract is planned for `../specs/SPEC-003-Classical-Reasoning-Preservation-and-Granularity-Contract.md`; identity and epistemic boundaries are also addressed by `SPEC-001` and `SPEC-005`. The following are proposed acceptance criteria, not completed test results.
+The definitive contract is for `../specs/SPEC-003-Classical-Reasoning-Preservation-and-Granularity-Contract.md`; identity and epistemic boundaries are also addressed by `SPEC-001` and `SPEC-005`. The following are proposed acceptance criteria, not completed test results.
 
 | ID | Priority | Conformance obligation | Example negative test |
 |---|---|---|---|
@@ -322,7 +322,7 @@ Each unresolved issue should remain visible in `../research-trace/UNRESOLVED-RES
 | `CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md` | Qualified reasoning about code impact and transitions |
 | `EXT-001-Object-Centric-Reasoning-and-the-History-of-Logic.md` | Historical and logical context, including competing formalisms |
 
-These names refer to the **planned repository structure**; listing a companion does not imply that its content has already been authored.
+These names refer to the **repository structure**; listing a companion does not imply that its content has already been authored.
 
 ## 16. Conclusion
 

@@ -251,7 +251,7 @@ A function or module can be modeled as an object with calling-graph relations, c
 
 ## 15. Proposed conformance obligations
 
-The following **ISL-001–ISL-016** identifiers are paper-level proposed requirements. `SPEC-005` is the planned normative home; this paper does not assert that the specification already exists.
+The following **ISL-001–ISL-016** identifiers are paper-level proposed requirements. `SPEC-005` is the normative home; this paper does not assert that the specification already exists.
 
 | ID | Obligation | Representative failing condition |
 |---|---|---|
@@ -311,7 +311,7 @@ Pre-register object populations, temporal splits, metrics, significance or uncer
 
 Secondary links: **OCSH-002** (ODK reuse), **OCSH-003** (plugin adaptation), **OCSH-005** (WE-native CDE), **OCSH-006** (granularity contracts), **OCSH-007** (SQL transformations), **OCSH-008** (validated relay), **OCSH-009/010** (spillover and sustained growth), and **OCSH-011** (code governance). These are related hypotheses, not evidence that OCSH-004 is true.
 
-## 18. Research interfaces and planned companion artifacts
+## 18. Research interfaces and companion artifacts
 
 - `OCSRE-001-The-Object-Centric-Structural-Intelligence-Thesis.md`: five-stage framing and scope.
 - `OCSRE-002-From-Classical-Syllogism-to-Object-Centric-Structural-Reasoning.md`: deductive validity boundaries.
@@ -319,15 +319,15 @@ Secondary links: **OCSH-002** (ODK reuse), **OCSH-003** (plugin adaptation), **O
 - `OCSRE-004-Object-Differential-Kernel-and-Generic-Operators.md`: comparator and trace pipeline.
 - `OCSRE-005-Object-Plugins-and-Composable-Intelligence-Capabilities.md`: versioned learning capabilities.
 - `OCSRE-006-SQL-to-Object-Attribute-Transformation-and-Semantic-Alignment.md`: source transformation and security.
-- `OCSRE-008-WE-Native-CDE-and-Composite-State-Evolution.md`: candidate state evolution and promotion (planned).
-- `OCSRE-009-Epistemic-Separation-and-Object-Centric-Evidence-Governance.md`: evidence and belief boundaries (planned).
-- `../specs/SPEC-001-Object-Identity-Perspective-and-State-Contract.md`: identity/state prerequisites (planned).
-- `../specs/SPEC-002-Object-Differential-Kernel-and-Comparator-Contract.md`: typed comparison (planned).
-- `../specs/SPEC-004-Object-Plugin-and-Capability-Composition-Contract.md`: capability boundaries (planned).
-- `../specs/SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md`: principal normative target (planned).
-- `../specs/SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md`: evolution/relay boundaries (planned).
-- `../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`, `../cases/CASE-004-Transaction-and-Compositional-Identity.md`, `../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md`: planned validation cases.
-- `../extensions/EXT-003-Multi-Agent-Object-Intelligence-and-Relay.md`, `../extensions/EXT-004-Open-Ended-Metric-Plugin-and-Policy-Evolution.md`: planned extensions.
+- `OCSRE-008-WE-Native-CDE-and-Composite-State-Evolution.md`: candidate state evolution and promotion.
+- `OCSRE-009-Epistemic-Separation-and-Object-Centric-Evidence-Governance.md`: evidence and belief boundaries.
+- `../specs/SPEC-001-Object-Identity-Perspective-and-State-Contract.md`: identity/state prerequisites.
+- `../specs/SPEC-002-Object-Differential-Kernel-and-Comparator-Contract.md`: typed comparison.
+- `../specs/SPEC-004-Object-Plugin-and-Capability-Composition-Contract.md`: capability boundaries.
+- `../specs/SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md`: principal normative target.
+- `../specs/SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md`: evolution/relay boundaries.
+- `../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`, `../cases/CASE-004-Transaction-and-Compositional-Identity.md`, `../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md`: validation cases.
+- `../extensions/EXT-003-Multi-Agent-Object-Intelligence-and-Relay.md`, `../extensions/EXT-004-Open-Ended-Metric-Plugin-and-Policy-Evolution.md`: extensions.
 
 **Project boundaries:** WE-SIO owns object semantics; ODK owns generic comparison discipline; UTN/MDT/WE-HDT and SIF supply potential localization and addressing interfaces without claimed algorithmic equivalence; CDE governs constrained state/delta evolution; MLIU/UIERU may support learning and relay organization; ISGFTR motivates testable spillover questions, not a validated scaling law.
 

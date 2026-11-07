@@ -301,8 +301,6 @@ Each counterexample should eventually have a machine-checkable fixture, expected
 - `CASE-002-SQL-Native-Object-Adaptation.md`, `CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`, `CASE-005-Cross-Domain-Object-Plugin-Relay.md`, and `CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md` — evaluation cases.
 - `EXT-003-Multi-Agent-Object-Intelligence-and-Relay.md`, `EXT-004-Open-Ended-Metric-Plugin-and-Policy-Evolution.md`, and `EXT-005-Structural-Capability-Spillover-and-Scaling-Hypotheses.md` — extensions.
 
-These names identify planned companion artifacts and do not assert that all have already been authored.
-
 ## 17. Explicit leftovers and open research questions
 
 1. Define a canonical manifest schema and semantic version-compatibility rules.
