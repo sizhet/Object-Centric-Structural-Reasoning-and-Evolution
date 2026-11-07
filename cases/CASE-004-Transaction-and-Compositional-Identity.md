@@ -331,5 +331,5 @@ Transaction analysis illustrates why compositional identity must be modeled as a
 
 **Repository placement:** `cases/CASE-004-Transaction-and-Compositional-Identity.md`  
 **Research status:** E0 — conceptual case, synthetic fixture, and proposed conformance tests only.  
-**Related cases:** [CASE-003](CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md), [CASE-005](CASE-005-Cross-Domain-Object-Plugin-Relay.md) (planned).  
-**Figure context:** [`../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png`](../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png) (planned asset).
+**Related cases:** [CASE-003](CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md), [CASE-005](CASE-005-Cross-Domain-Object-Plugin-Relay.md).  
+**Figure context:** [`../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png`](../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png).

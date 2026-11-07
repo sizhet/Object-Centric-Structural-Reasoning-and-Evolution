@@ -398,4 +398,3 @@ School-bus scheduling exposes the central promise and difficulty of WE-native co
 
 **Repository placement:** `cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md`  
 **Research status:** E0 — conceptual case and proposed tests only.  
-**Related planned figure:** [`../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png`](../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png) (planned asset; not required to read this case).

@@ -396,7 +396,7 @@ These are unresolved research items, not completed deliverables. Failed tests an
 
 **Canonical path:** `cases/CASE-001-Person-and-Classical-Reasoning.md`.
 
-The conceptual progression is illustrated by the planned `figures/Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png` associated with OCSRE-002. The figure is **planned**, not asserted to exist or to be embedded here. The text above is independently readable without it.
+The conceptual progression is illustrated by the `figures/Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png` associated with OCSRE-002. 
 
 ## 22. Conclusion
 

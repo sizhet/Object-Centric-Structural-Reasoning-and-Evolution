@@ -143,7 +143,7 @@ A proposed feedback-driven learning process tied to identified objects, versions
 A provenance-bearing report about an observation, outcome, correction, or evaluation, associated with relevant object and state references. **Boundary:** a report may be disputed, stale, or unauthorized; it is not automatically ground truth. **Sources:** SPEC-005, OCSRE-007.
 
 ### DEF-036 — Explicit Leftover / Residual
-A named unresolved requirement, ambiguity, failed case, missing evidence, or deferred design decision that remains visible to future work. **Boundary:** a leftover is not a completed feature; documenting it does not resolve it. **Sources:** all SPECs, `UNRESOLVED-RESIDUALS.md` (planned).
+A named unresolved requirement, ambiguity, failed case, missing evidence, or deferred design decision that remains visible to future work. **Boundary:** a leftover is not a completed feature; documenting it does not resolve it. **Sources:** all SPECs, `UNRESOLVED-RESIDUALS.md`.
 
 ## 7. CDE, state evolution, and governance
 
@@ -218,7 +218,7 @@ Governed generation, composition, specialization, replacement, or retirement of 
 A controlled process for proposing and reviewing policy changes with separate authorization and rollback rules. **Boundary:** an agent may propose a policy change but MUST NOT grant itself permission by changing its own evaluator. **Sources:** EXT-004, SPEC-005/006.
 
 ### DEF-059 — Structural Capability Spillover
-A hypothesized benefit of a structural capability outside its original target scope, established only through predeclared independent tasks, suitable controls, and resource-accounted evaluation. **Boundary:** planned cross-domain reuse ≠ untargeted spillover. **Sources:** OCSRE-011/012, EXT-005, OCSH-009.
+A hypothesized benefit of a structural capability outside its original target scope, established only through predeclared independent tasks, suitable controls, and resource-accounted evaluation. **Boundary:** cross-domain reuse ≠ untargeted spillover. **Sources:** OCSRE-011/012, EXT-005, OCSH-009.
 
 ### DEF-060 — Structural Scaling Hypothesis
 A falsifiable claim that accumulated, interoperable, validated structural capabilities produce repeatable growth in independently measured useful performance as resources or capability stock vary. **Boundary:** no scaling law is demonstrated by this repository; a rising number of documents, plugins, or agents is insufficient. **Sources:** EXT-005, OCSH-010.

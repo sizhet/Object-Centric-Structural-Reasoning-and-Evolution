@@ -460,7 +460,7 @@ These criteria define a future validation target, not current conformance certif
 
 **Path:** `cases/CASE-002-SQL-Native-Object-Adaptation.md`.
 
-The primary SQL transformation diagram is planned as [`../figures/Fig-005-SQL-to-WE-Attribute-Transformation.png`](../figures/Fig-005-SQL-to-WE-Attribute-Transformation.png), originally assigned to OCSRE-006. The figure is a **planned asset** and is not represented as already created. This case may reference it after the asset exists.
+The primary SQL transformation diagram is in [`../figures/Fig-005-SQL-to-WE-Attribute-Transformation.png`](../figures/Fig-005-SQL-to-WE-Attribute-Transformation.png), originally assigned to OCSRE-006. 
 
 ## 22. Conclusion
 

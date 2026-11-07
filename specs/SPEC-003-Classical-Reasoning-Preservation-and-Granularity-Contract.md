@@ -320,14 +320,12 @@ All hypotheses remain **proposed / E0** at the time of this research specificati
 - `../docs/OCSRE-009-Epistemic-Separation-and-Object-Centric-Evidence-Governance.md`: proof, inference, hypothesis and authority separation.
 - `SPEC-001-Object-Identity-Perspective-and-State-Contract.md`: canonical object identity, StateRef and PerspectiveRef.
 - `SPEC-002-Object-Differential-Kernel-and-Comparator-Contract.md`: typed metric and comparator semantics.
-- `SPEC-004-Object-Plugin-and-Capability-Composition-Contract.md`: proposed rule/plugin registration and portability (planned).
-- `SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md`: proposed evidence-promotion and feedback rules (planned).
-- `SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md`: proposed state-transition and relay controls (planned).
-- `../cases/CASE-001-Person-and-Classical-Reasoning.md`: proposed reference syllogism case (planned).
-- `../extensions/EXT-001-Object-Centric-Reasoning-and-the-History-of-Logic.md`: historical and theoretical context (planned).
-- `../research-trace/HYPOTHESIS-REGISTRY.md` and `../research-trace/COUNTEREXAMPLE-REGISTRY.md`: proposed trace records (planned).
-
-Companion paths marked *planned* are repository targets, not claims of completed files.
+- `SPEC-004-Object-Plugin-and-Capability-Composition-Contract.md`: proposed rule/plugin registration and portability.
+- `SPEC-005-In-Situ-Learning-Feedback-and-Epistemic-Governance-Contract.md`: proposed evidence-promotion and feedback rules.
+- `SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md`: proposed state-transition and relay controls.
+- `../cases/CASE-001-Person-and-Classical-Reasoning.md`: proposed reference syllogism case.
+- `../extensions/EXT-001-Object-Centric-Reasoning-and-the-History-of-Logic.md`: historical and theoretical context.
+- `../research-trace/HYPOTHESIS-REGISTRY.md` and `../research-trace/COUNTEREXAMPLE-REGISTRY.md`: proposed trace records.
 
 ## 21. Explicit leftovers and open research questions
 

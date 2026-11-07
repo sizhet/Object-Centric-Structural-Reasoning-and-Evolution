@@ -348,11 +348,9 @@ These leftovers MUST NOT be silently represented as resolved in downstream paper
 
 - **Core theory:** [OCSRE-007](../docs/OCSRE-007-In-Situ-Object-Learning-Decision-and-Feedback.md), [OCSRE-009](../docs/OCSRE-009-Epistemic-Separation-and-Object-Centric-Evidence-Governance.md), [OCSRE-011](../docs/OCSRE-011-Object-Capability-Spillover-Relay-and-Collective-Structural-Learning.md), [OCSRE-012](../docs/OCSRE-012-Open-Ended-Object-Centric-Structural-Intelligence.md).
 - **Upstream contracts:** [SPEC-001](SPEC-001-Object-Identity-Perspective-and-State-Contract.md), [SPEC-002](SPEC-002-Object-Differential-Kernel-and-Comparator-Contract.md), [SPEC-003](SPEC-003-Classical-Reasoning-Preservation-and-Granularity-Contract.md), [SPEC-004](SPEC-004-Object-Plugin-and-Capability-Composition-Contract.md).
-- **Forward contract (planned):** [SPEC-006](SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md).
-- **Cases (planned):** [CASE-002](../cases/CASE-002-SQL-Native-Object-Adaptation.md), [CASE-003](../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md), [CASE-004](../cases/CASE-004-Transaction-and-Compositional-Identity.md), [CASE-005](../cases/CASE-005-Cross-Domain-Object-Plugin-Relay.md), [CASE-006](../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md).
-- **Research trace (planned):** [HYPOTHESIS-REGISTRY](../research-trace/HYPOTHESIS-REGISTRY.md), [COUNTEREXAMPLE-REGISTRY](../research-trace/COUNTEREXAMPLE-REGISTRY.md), [UNRESOLVED-RESIDUALS](../research-trace/UNRESOLVED-RESIDUALS.md).
-
-Links to planned files are forward references and MUST be checked at release preflight; they do not imply those artifacts are already authored.
+- **Forward contract:** [SPEC-006](SPEC-006-WE-Native-CDE-Composite-State-and-Relay-Contract.md).
+- **Cases:** [CASE-002](../cases/CASE-002-SQL-Native-Object-Adaptation.md), [CASE-003](../cases/CASE-003-School-Bus-Scheduling-and-Composite-WE-State.md), [CASE-004](../cases/CASE-004-Transaction-and-Compositional-Identity.md), [CASE-005](../cases/CASE-005-Cross-Domain-Object-Plugin-Relay.md), [CASE-006](../cases/CASE-006-AI-Generated-Code-Governance-Through-Calling-Graphs-and-CDE.md).
+- **Research trace:** [HYPOTHESIS-REGISTRY](../research-trace/HYPOTHESIS-REGISTRY.md), [COUNTEREXAMPLE-REGISTRY](../research-trace/COUNTEREXAMPLE-REGISTRY.md), [UNRESOLVED-RESIDUALS](../research-trace/UNRESOLVED-RESIDUALS.md).
 
 ## 22. Release discipline and conclusion
 

@@ -601,7 +601,7 @@ Each decision has a stable `ADR-OCSRE-NNN` ID, short title, context, baseline de
 
 **Tradeoffs and risks.** May limit adoption claims.
 
-**Primary research references.** README; HYPOTHESIS-REGISTRY; VALIDATION-ROADMAP (planned).
+**Primary research references.** README; HYPOTHESIS-REGISTRY; VALIDATION-ROADMAP.
 
 **Related hypotheses.** OCSH-001–011.
 
