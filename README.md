@@ -21,14 +21,6 @@ The proposed progression is:
 
 The project does not claim that every problem is reducible to objects, that classical logic is obsolete, or that reuse automatically implies intelligence scaling.
 
----
-
-![Fig-001-OCSRE-Grand-Architecture.png](figures/Fig-001-OCSRE-Grand-Architecture.png)
-
-*Figure 1. Proposed OCSRE architecture: shared object interfaces connect representation, differential computation, reasoning, feedback, constrained evolution, localization, and structural capability relay.*
-
----
-
 ## 2. The architecture at a glance
 
 | Layer | Research concern | Primary artifacts |
