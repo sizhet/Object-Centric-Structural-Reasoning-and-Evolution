@@ -13,6 +13,14 @@ School-bus scheduling is a useful, bounded laboratory for object-centric structu
 
 **Keywords:** school-bus scheduling; World Entity; composite state; CDE; typed Delta; constraint satisfaction; vehicle minimization; ride time; ODK; multi-agent relay; conformance.
 
+---
+
+![Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png](../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png)
+
+*Figure 7. WE-native constrained delta evolution over composite state containers: generate candidate transitions, evaluate global invariants, and promote only after validation and authorization.*
+
+---
+
 ## 1. Research question and operational objective
 
 **Question.** Can one shared object interface represent a heterogeneous transportation schedule, expose legal and illegal candidate edits, evaluate tradeoffs, and govern state promotion without conflating the identities, permissions, and constraints of its constituent objects?

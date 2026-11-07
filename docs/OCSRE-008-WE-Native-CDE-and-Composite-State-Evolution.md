@@ -112,6 +112,10 @@ A composite container therefore needs:
 
 A locally valid Delta is not necessarily globally valid. Validation must be evaluated over the Delta's *transitive impact scope*, or conservatively over the full relevant composite when impact localization is uncertain.
 
+![Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png](../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png)
+
+*Figure 7. WE-native constrained delta evolution over composite state containers: generate candidate transitions, evaluate global invariants, and promote only after validation and authorization.*
+
 ## 7. Search topology, path memory, and loop-back control
 
 CDE research explores dynamic candidate generation, M-to-N branching, No-subtree decisions, path-dependent Delta restrictions, and loop-back control. WE-native CDE can carry these mechanisms as **configurable search policies**, not universal theorems.

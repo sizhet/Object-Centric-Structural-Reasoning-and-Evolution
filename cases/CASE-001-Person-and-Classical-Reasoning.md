@@ -15,6 +15,14 @@ This reference case tests the smallest intellectually important bridge in Object
 
 **Keywords:** syllogism; first-order logic; person; world entity; object identity; proof trace; temporal reasoning; granularity; epistemic separation; conformance.
 
+---
+
+![Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png](../figures/Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png)
+
+*Figure 2. Classical deductive validity is retained within a restricted logical fragment while object-centric reasoning introduces qualified identity, state, perspective, and relation interfaces.*
+
+---
+
 ## 1. Case objective and research questions
 
 The reference syllogism is deliberately simple:

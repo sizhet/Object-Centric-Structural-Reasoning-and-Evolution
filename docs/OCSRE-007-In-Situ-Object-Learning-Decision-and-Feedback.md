@@ -104,7 +104,9 @@ Observe / Ingest -> Qualify Evidence -> Project Typed Metrics
                               +----> Versioned Learning Record
 ```
 
-**Figure insertion point:** `../figures/Fig-006-In-Situ-Object-Intelligence-Loop.png` (planned; not yet created). The diagram should depict independent gates for action authorization, epistemic revision, and CDE state promotion.
+![Fig-006-In-Situ-Object-Intelligence-Loop.png](../figures/Fig-006-In-Situ-Object-Intelligence-Loop.png)
+
+*Figure 6. Proposed in-situ object intelligence loop with qualified observations, differential feedback, learning proposals, and governed decisions.*
 
 The loop is not assumed to be synchronous. Delayed outcomes, missing feedback, human review, and irreversible external actions may interrupt it. An explicit pending or unresolved state is preferable to a forced positive/negative label.
 

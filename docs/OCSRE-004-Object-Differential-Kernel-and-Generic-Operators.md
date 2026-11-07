@@ -63,6 +63,10 @@ A metric selector is an address into a metric schema or registered derivation, n
 
 These boundaries are shared with OCSRE-002, OCSRE-003, and the planned epistemic and CDE papers.
 
+![Fig-003-Object-Metric-Perspective-and-State.png](../figures/Fig-003-Object-Metric-Perspective-and-State.png)
+
+*Figure 3. Object identity, metric indices, perspective, and state are distinct but composable coordinates of an object-centric reasoning context.*
+
 ## 3. A minimal Object Differential Kernel
 
 A conceptual pipeline is:
@@ -162,6 +166,10 @@ Transformations must preserve source lineage, row-level and column-level permiss
 ### 5.2 Compositions are typed programs
 
 A composition such as `rank(compare(normalize(project(O))))` is valid only if the output contract of each stage satisfies the next stage's input contract. This permits a reusable operator graph while forbidding an unsafe “anything in, score out” implementation. Intermediate artifacts should remain inspectable, and partial failure should not be silently converted to a zero.
+
+![Fig-004-Object-Differential-Kernel-and-Plugin-Interfaces.png](../figures/Fig-004-Object-Differential-Kernel-and-Plugin-Interfaces.png)
+
+*Figure 4. The Object Differential Kernel separates generic typed comparison from domain-specific Object Plugin semantics and conformance requirements.*
 
 ## 6. Object Plugins: the domain adaptation boundary
 

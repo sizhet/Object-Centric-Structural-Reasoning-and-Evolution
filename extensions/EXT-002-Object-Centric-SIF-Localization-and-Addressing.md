@@ -14,6 +14,14 @@ Structural intelligence requires more than an accurate representation of objects
 
 **Keywords:** Structural Intelligence Framework; SIF; localization; addressing; World Entity; object identity; UTN; MDT; WE-HDT; CDE; differential localization; capability routing; composite state; provenance; conformance.
 
+---
+
+![Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png](../figures/Fig-007-WE-Native-CDE-and-Composite-State-Evolution.png)
+
+*Figure 7. WE-native constrained delta evolution over composite state containers: generate candidate transitions, evaluate global invariants, and promote only after validation and authorization.*
+
+---
+
 ## 1. The localization problem in structural intelligence
 
 A question such as “Can this school district operate with fewer buses?” does not uniquely identify an optimization target. The system must discover the affected fleet, trips, student assignments, constraints, and state snapshot; locate a suitable optimization capability; and decide whether a proposed reassignment is merely a candidate or a permissible operational change. Similarly, “What code will be affected by this change?” can refer to a function, a call edge, a policy, a deployment unit, or a runtime behavior. A name or graph node alone is not enough.

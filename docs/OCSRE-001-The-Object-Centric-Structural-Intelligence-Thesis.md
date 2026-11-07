@@ -107,7 +107,9 @@ The five stages are **capability layers**, not a mandatory linear runtime pipeli
       Relay / collective learning / spillover tests
 ```
 
-**Planned primary illustration:** `../figures/Fig-001-OCSRE-Grand-Architecture.png` (not yet produced). The architecture is conceptual: it neither mandates a specific execution engine nor claims an implemented runtime.
+![Fig-001-OCSRE-Grand-Architecture.png](../figures/Fig-001-OCSRE-Grand-Architecture.png)
+
+*Figure 1. Proposed OCSRE architecture: shared object interfaces connect representation, differential computation, reasoning, feedback, constrained evolution, localization, and structural capability relay.*
 
 ## 5. From classical deduction to structural reasoning
 

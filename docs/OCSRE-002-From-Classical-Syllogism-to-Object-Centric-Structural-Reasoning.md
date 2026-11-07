@@ -163,6 +163,10 @@ A comparison `Object[metricIndices]` may yield a differential vector:
 
 The comparator must check unit, normalization, missingness, perspective, and measurement provenance. A small distance between two objects can support a similarity hypothesis; it does not entail identical type, identity, authorization, or behavior. An Object Differential Kernel should return typed results and unresolved dimensions rather than silently converting scores into proofs.
 
+![Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png](../figures/Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png)
+
+*Figure 2. Classical deductive validity is retained within a restricted logical fragment while object-centric reasoning introduces qualified identity, state, perspective, and relation interfaces.*
+
 ## 6. Time, state, and change
 
 A statement such as `Enrolled(student, school)` can change over time. If an object is enrolled at `t1` and transferred at `t2`, it is unsound to combine an unqualified `Enrolled(student, schoolA)` premise from `t1` with a current-state rule at `t2`.

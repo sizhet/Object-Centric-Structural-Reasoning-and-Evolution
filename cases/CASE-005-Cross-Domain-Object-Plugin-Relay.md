@@ -11,6 +11,14 @@
 
 This case examines a central claim of Object-Centric Structural Reasoning and Evolution (OCSRE): a capability developed around one World Entity (WE) domain can be transferred to a different domain through a stable Object Differential Kernel (ODK), typed Object Plugins, explicit semantic adapters, and receiving-domain conformance gates. The target is not superficial reuse of source code. It is **validated structural capability relay**, in which semantics, authority, provenance, evidence qualification, and measured utility survive transfer. We construct three synthetic relay tracks: SQL-based school-transport capacity analysis to inventory utilization analysis; composite-state school-bus scheduling to a constrained resource-assignment problem; and transaction-graph hypothesis analysis to software dependency-impact triage. Each track distinguishes genuinely reusable mechanisms from domain-specific assumptions that must be replaced. We specify transfer envelopes, positive and adversarial tests, baselines, measurement criteria, and promotion gates. The cases are proposals for reproducible experiments, not evidence that cross-domain transfer has already succeeded. The principal hypotheses are OCSH-002, OCSH-003, and OCSH-008; untargeted spillover and sustained scaling (OCSH-009 and OCSH-010) require separate experiments.
 
+---
+
+![Fig-004-Object-Differential-Kernel-and-Plugin-Interfaces.png](../figures/Fig-004-Object-Differential-Kernel-and-Plugin-Interfaces.png)
+
+*Figure 4. The Object Differential Kernel separates generic typed comparison from domain-specific Object Plugin semantics and conformance requirements.*
+
+---
+
 ## 1. Research question and claim boundary
 
 **Question:** Under what explicit contracts can an Object Plugin or composed capability move from a source domain to a receiving domain without silently changing meaning, widening authority, or weakening validation?

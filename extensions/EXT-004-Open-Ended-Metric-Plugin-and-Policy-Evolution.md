@@ -13,6 +13,14 @@ A structural intelligence system with a fixed metric catalog, fixed plugin reper
 
 **Keywords:** object-centric structural intelligence; open-ended evolution; metric discovery; Object Plugins; policy governance; WE; ODK; CDE; SIF; UIERU; structural capability relay; conformance.
 
+---
+
+![Fig-006-In-Situ-Object-Intelligence-Loop.png](../figures/Fig-006-In-Situ-Object-Intelligence-Loop.png)
+
+*Figure 6. Proposed in-situ object intelligence loop with qualified observations, differential feedback, learning proposals, and governed decisions.*
+
+---
+
 ## 1. Research question and thesis
 
 **Question:** Under which conditions can a system discover *new useful measurements, operations, and governance rules* while preserving semantic consistency, epistemic traceability, and control over its own evolution?

@@ -13,6 +13,14 @@ The history of logic is not a single progression from simple rules to increasing
 
 **Keywords:** history of logic; Aristotelian syllogistic; first-order logic; model theory; modal logic; temporal logic; dynamic logic; description logic; type theory; probabilistic reasoning; object-centric reasoning; WE; ODK; CDE; structural intelligence.
 
+---
+
+![Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png](../figures/Fig-002-From-Classical-Syllogism-to-Object-Centric-Reasoning.png)
+
+*Figure 2. Classical deductive validity is retained within a restricted logical fragment while object-centric reasoning introduces qualified identity, state, perspective, and relation interfaces.*
+
+---
+
 ## 1. Research question and boundaries
 
 **Question:** What does object-centric structural reasoning add to established logical methods, and what must it preserve rather than reinvent?

@@ -13,6 +13,14 @@ This extension examines a demanding proposition: a structural intelligence capab
 
 **Keywords:** OCSRE; structural capability spillover; scaling hypotheses; ISGFTR; cross-domain transfer; Object Plugins; ODK; WE; CDE; UIERU; collective structural learning; capability provenance; causal evaluation.
 
+---
+
+![Fig-008-Object-Capability-Spillover-Relay-and-Collective-Learning.png](../figures/Fig-008-Object-Capability-Spillover-Relay-and-Collective-Learning.png)  
+
+*Figure 8. Proposed object capability relay: governed transfer, independent validation, residual capture, and collective structural learning across domains.*
+
+---
+
 ## 1. Central research question
 
 Can the accumulation of validated, composable object-centric capabilities improve performance on **previously unselected tasks**, beyond the gains explainable by additional computation, task-specific engineering, larger catalogs, or benchmark contamination?

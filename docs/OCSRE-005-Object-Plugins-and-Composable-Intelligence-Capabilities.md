@@ -147,6 +147,10 @@ This separation suggests a measurable hypothesis: a new domain can reuse the sam
 
 **ODK integration invariants:** preserve ODK-001 through ODK-016 from OCSRE-004, especially identity/state separation, typed alignment, provenance, permission preservation, version isolation, read-only comparison, explicit residuals, and validated promotion.
 
+![Fig-004-Object-Differential-Kernel-and-Plugin-Interfaces.png](../figures/Fig-004-Object-Differential-Kernel-and-Plugin-Interfaces.png)
+
+*Figure 4. The Object Differential Kernel separates generic typed comparison from domain-specific Object Plugin semantics and conformance requirements.*
+
 ## 8. Worked case A: SQL-native adaptation
 
 Consider a table containing `student_id`, `route_id`, `ride_minutes`, and `pickup_time`. A source row key does not by itself establish a WE identity. A source adapter must specify entity resolution and authorization. A transformation plugin might:

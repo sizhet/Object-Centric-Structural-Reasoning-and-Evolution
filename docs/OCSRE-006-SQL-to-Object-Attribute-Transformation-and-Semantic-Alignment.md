@@ -159,7 +159,9 @@ Evidence-qualified Reasoning / Learning / CDE Candidate
 
 Each arrow represents a contract boundary with a possible `reject`, `defer`, or `qualified output` result. This is a logical architecture, not a claim that all stages must execute as separate physical services. An optimizer may fuse operations after proving or testing the relevant equivalence.
 
-**Planned figure:** `../figures/Fig-005-SQL-to-WE-Attribute-Transformation.png` should illustrate this pipeline and its security/lineage side channels. The image is planned, not included in this document.
+![Fig-005-SQL-to-WE-Attribute-Transformation.png](../figures/Fig-005-SQL-to-WE-Attribute-Transformation.png)
+
+*Figure 5. Proposed SQL-to-WE adaptation: typed attribute transformations produce object-facing representations while preserving source semantics, provenance, and access constraints.*
 
 ## 8. Illustrative school-bus SQL adaptation
 

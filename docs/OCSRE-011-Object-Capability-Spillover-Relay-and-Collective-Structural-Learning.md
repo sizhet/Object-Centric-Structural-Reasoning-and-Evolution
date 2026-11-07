@@ -127,6 +127,10 @@ Each step has a distinct obligation. Source success does not establish target va
 
 Relay may be **horizontal** (between peer domains), **vertical** (between granularities), **recursive** (improved relay mechanisms become relayable capabilities), or **collective** (multiple agents contribute independent evidence). Recursive relay requires loop and dependency controls to avoid circular validation.
 
+![Fig-008-Object-Capability-Spillover-Relay-and-Collective-Learning.png](../figures/Fig-008-Object-Capability-Spillover-Relay-and-Collective-Learning.png)  
+
+*Figure 8. Proposed object capability relay: governed transfer, independent validation, residual capture, and collective structural learning across domains.*
+
 ## 7. Capability composition and relay portfolios
 
 Single capabilities may yield little benefit without compatible companions. A relay portfolio is a governed graph of capabilities, adapters, validators, and evidence links. Edges represent typed dataflow, control dependency, evidence dependency, or authorization—not an undifferentiated “related-to” link.

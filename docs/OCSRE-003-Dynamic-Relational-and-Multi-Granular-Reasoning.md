@@ -231,7 +231,11 @@ Two perspectives can rank the same state differently without either changing its
 
 ### 6.1 Conflicting evidence
 
-When two sources disagree about a metric, the framework should preserve source-specific claims and expose the disagreement. A resolver may select one estimate under a declared policy, but the competing evidence and unresolved residual remain traceable. No majority vote or learned score may silently transform contested evidence into a logical axiom.
+When two sources disagree about a metric, the framework should preserve source-specific claims and expose the disagreement. A resolver may select one estimate under a declared policy, but the competing evidence and unresolved residual remain traceable. No majority vote or learned score may silently transform contested evidence into a logical axiom.!
+
+![Fig-003-Object-Metric-Perspective-and-State.png](../figures/Fig-003-Object-Metric-Perspective-and-State.png)
+
+*Figure 3. Object identity, metric indices, perspective, and state are distinct but composable coordinates of an object-centric reasoning context.*
 
 ## 7. Differential comparison and reasoning
 

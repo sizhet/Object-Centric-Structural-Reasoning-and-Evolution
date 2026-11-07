@@ -13,6 +13,14 @@ A multi-agent system does not become collectively intelligent merely by multiply
 
 **Keywords:** object-centric intelligence; multi-agent systems; WE; ODK; CDE; structural relay; collective learning; conformance; epistemic governance; SIF; UIERU.
 
+---
+
+![Fig-008-Object-Capability-Spillover-Relay-and-Collective-Learning.png](../figures/Fig-008-Object-Capability-Spillover-Relay-and-Collective-Learning.png)  
+
+*Figure 8. Proposed object capability relay: governed transfer, independent validation, residual capture, and collective structural learning across domains.*
+
+---
+
 ## 1. Research question and central thesis
 
 **Research question:** Under what conditions can multiple agents collectively produce more reliable, reusable, and transferable structural intelligence than an equally resourced single-agent baseline?

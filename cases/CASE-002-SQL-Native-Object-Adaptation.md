@@ -13,6 +13,14 @@ This case examines a practical bridge between relational database systems and ob
 
 A worked school-transport fixture illustrates source-row identity versus WE identity, aggregation grain, NULL handling, temporal alignment, permissions, and the transformations `Bucketize`, `Normalize`, `Combine`, `Encode`, and `Derive`. The case specifies executable-looking SQL examples, expected outcomes, negative tests, and evidence requirements. The proposed experiment is intended to test OCSH-007 and related portability hypotheses; no observed performance gain or cross-domain generality is asserted.
 
+---
+
+![Fig-005-SQL-to-WE-Attribute-Transformation.png](../figures/Fig-005-SQL-to-WE-Attribute-Transformation.png)
+
+*Figure 5. Proposed SQL-to-WE adaptation: typed attribute transformations produce object-facing representations while preserving source semantics, provenance, and access constraints.*
+
+---
+
 ## 1. Case purpose and scope
 
 The case asks whether an adapter can preserve relational meaning and security while exposing reusable object-centric computations. Its immediate goals are to:
