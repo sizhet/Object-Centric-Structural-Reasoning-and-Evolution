@@ -112,23 +112,23 @@ The last pathway connects to AQSI and open-ended structural learning. It is part
 
 ## 8. A formal but deliberately limited model
 
-Let \(\mathcal{C}_t\) be the set of available, versioned capabilities at time \(t\), and let \(\mathcal{T}_t\) be a prospectively sampled evaluation set. For task \(\tau\), define \(U(\tau,\mathcal{C}_t,B)\) as an externally evaluated utility under resource budget \(B\), including relevant constraint violations and operational costs. A conditional spillover gain can be written as
+Let $\mathcal{C}_t$ be the set of available, versioned capabilities at time $t$, and let $\mathcal{T}_t$ be a prospectively sampled evaluation set. For task $\tau$, define $U(\tau,\mathcal{C}_t,B)$ as an externally evaluated utility under resource budget $B$, including relevant constraint violations and operational costs. A conditional spillover gain can be written as
 
-\[
+$$
 G_{\mathrm{spill}}(c,\tau)=U(\tau,\mathcal{C}_t\cup\{c\},B)-U(\tau,\mathcal{C}_t,B),
-\]
+$$
 
-where \(\tau\) was not selected or optimized for during the development of \(c\), and both conditions receive comparable budgets and evaluation procedures. The difference is an **observed association** unless treatment assignment, controls, and interference are handled adequately.
+where $\tau$ was not selected or optimized for during the development of $c$, and both conditions receive comparable budgets and evaluation procedures. The difference is an **observed association** unless treatment assignment, controls, and interference are handled adequately.
 
 A prospective structural resource index might be
 
-\[
+$$
 R_t = w_1 N_{\mathrm{validated}} + w_2 N_{\mathrm{interoperable}} + w_3 N_{\mathrm{reproducible\ relay}} - w_4 M_{\mathrm{maintenance}},
-\]
+$$
 
 with weights fixed before evaluation and with sensitivity analyses. This is an illustrative index, not a discovered law. Avoid interpreting the index as a sufficient statistic for intelligence.
 
-A scaling hypothesis might test whether a prespecified outcome \(Y\) is fit by \(Y=a+b\log(1+R)\), a power law, a saturating curve, or no systematic relationship. Model selection, uncertainty, and out-of-distribution prediction must be reported. A visually smooth curve is not proof of a universal scaling law.
+A scaling hypothesis might test whether a prespecified outcome $Y$ is fit by $Y=a+b\log(1+R)$, a power law, a saturating curve, or no systematic relationship. Model selection, uncertainty, and out-of-distribution prediction must be reported. A visually smooth curve is not proof of a universal scaling law.
 
 ## 9. The crucial distinction: targeted versus untargeted benefit
 
@@ -183,7 +183,7 @@ Predeclare aggregation rules; do not allow a large gain on one easy task to conc
 
 ## 13. Synthetic Track A: SQL capacity ratio to inventory utilization
 
-**Source task:** CASE-002 and CASE-003 provide a typed capacity-utilization operator for school-bus observations. Its mathematical kernel is \(r=n/d\) for compatible quantities with \(d>0\), preserving time window, unit semantics, and missingness.
+**Source task:** CASE-002 and CASE-003 provide a typed capacity-utilization operator for school-bus observations. Its mathematical kernel is $r=n/d$ for compatible quantities with $d>0$, preserving time window, unit semantics, and missingness.
 
 **Candidate target:** warehouse bin utilization, using `occupied_volume / usable_volume` under a new domain adapter. The ratio kernel may remain unchanged; the domain adapter must define usable volume, item packing assumptions, measurement times, and uncertainty.
 

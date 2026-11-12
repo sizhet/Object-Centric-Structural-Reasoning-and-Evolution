@@ -125,14 +125,14 @@ The collective may choose to retain several nondominated candidates. For instanc
 
 ## 10. WE-native CDE as a governed evolution engine
 
-Let a composite state be \(S_t\), a typed candidate Delta be \(\delta_i\), and a validator be \(V\). The proposed search step is:
+Let a composite state be $S_t$, a typed candidate Delta be $\delta_i$, and a validator be $V$. The proposed search step is:
 
-\[
-S'_{i} = \operatorname{ApplyCandidate}(S_t,\delta_i),\qquad
+$$
+S'_{i} = \mathrm{ApplyCandidate}(S_t,\delta_i),\qquad
 V(S'_i,\mathcal C,\mathcal P) \in \{\text{pass},\text{fail},\text{unknown}\}.
-\]
+$$
 
-Here \(\mathcal C\) denotes domain constraints and \(\mathcal P\) denotes policy/authority conditions. Only candidates that pass required gates may be considered for promotion; `unknown` is not `pass`. A separate authorization decision is required before execution. Agents can propose M→N branches, but path-memory rules, forbidden Delta reuse, NoSubtree semantics, loop-back limits, and termination budgets must be enforced as specified by the applicable CDE profile.
+Here $\mathcal C$ denotes domain constraints and $\mathcal P$ denotes policy/authority conditions. Only candidates that pass required gates may be considered for promotion; `unknown` is not `pass`. A separate authorization decision is required before execution. Agents can propose M→N branches, but path-memory rules, forbidden Delta reuse, NoSubtree semantics, loop-back limits, and termination budgets must be enforced as specified by the applicable CDE profile.
 
 The exact meaning of “Delta reuse” is path- and contract-dependent: globally prohibiting an operation type would be overrestrictive, while allowing the same state transition to cycle indefinitely would defeat termination safeguards.
 
@@ -140,11 +140,11 @@ The exact meaning of “Delta reuse” is path- and contract-dependent: globally
 
 A candidate evaluator may compute:
 
-\[
+$$
 \mathbf m(S) = (\text{fleet size},\text{ride-time burden},\text{lateness},\text{risk proxy})
-\]
+$$
 
-and a typed differential \(\Delta\mathbf m = \mathbf m(S')-\mathbf m(S)\). However, lower fleet size does not justify violating student coverage, capacity, driver-hour limits, or authorization policy. ODK supplies comparative evidence within compatible metric semantics; it does not determine truth, legality, safety, or authority by itself.
+and a typed differential $\Delta\mathbf m = \mathbf m(S')-\mathbf m(S)$. However, lower fleet size does not justify violating student coverage, capacity, driver-hour limits, or authorization policy. ODK supplies comparative evidence within compatible metric semantics; it does not determine truth, legality, safety, or authority by itself.
 
 Agents must not compare incompatible metrics solely because both are represented as numbers. Metric definitions, units, normalization and observation windows must be recorded.
 
@@ -205,11 +205,11 @@ The collective maintains a **Relay Portfolio** rather than one winner. Each entr
 
 A minimal collective learning cycle is:
 
-\[
+$$
 \text{Experience} \rightarrow \text{Structured Claim} \rightarrow
 \text{Challenge} \rightarrow \text{Conformance} \rightarrow
 \text{Scoped Relay} \rightarrow \text{New Experience}.
-\]
+$$
 
 Repeated execution can constitute a data-accumulation relay when outcomes and provenance are preserved. Repetition without informative feedback or changed evidence is not automatically learning. Negative results and unresolved residuals are first-class assets, not material to hide from a publication record.
 
