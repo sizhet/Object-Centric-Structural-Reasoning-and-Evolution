@@ -214,9 +214,9 @@ No normalization parameter may be fitted using held-out evaluation records unles
 
 Suppose a planning perspective combines load pressure with route-duration pressure:
 
-\[
+$$
 S_{\mathrm{plan}} = w_L L + w_T T, \qquad w_L,w_T\geq 0,\quad w_L+w_T=1.
-\]
+$$
 
 Here `L` and `T` must be independently normalized and semantically aligned; weights are perspective-specific and versioned. This is a *decision-support score*, not a deductive conclusion or authorization to change routes. If duration is missing or restricted, the combination must follow a declared abstention or partial-evaluation policy rather than silently reweighting.
 
@@ -259,9 +259,9 @@ At every stage, a failure should produce a typed rejection or explicit residual 
 
 Consider A1 (0.75) and A2 (0.90). Under the **same** service date, metric definition, grain, and planning perspective, a simple signed comparator may compute:
 
-\[
+$$
 \Delta_{A2,A1}=0.90-0.75=+0.15.
-\]
+$$
 
 The output is a 0.15 increase in *planned load ratio* (15 percentage points), not 15 additional riders, nor a probability of overload. The comparator must include its direction convention, provenance, and uncertainty qualification. Comparing A1's planned ratio with A2's observed ratio is rejected unless a transformation explicitly justifies the comparison and preserves the distinct evidence status.
 
