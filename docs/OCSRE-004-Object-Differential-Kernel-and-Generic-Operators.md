@@ -30,17 +30,17 @@ Consider a student, a school bus, a financial transaction, and a software functi
 
 Let an object reference be described schematically by
 
-\[
+$$
 O = (id, kind, stateVersion, temporalScope, perspective, attributes, relations, provenance, permissions).
-\]
+$$
 
 This is an interface sketch, not a replacement for WE-SIO's canonical identity or representation definitions. `id` denotes the entity reference; `stateVersion` identifies an observed or simulated state; and `perspective` qualifies an interpretation. The same WE can expose different projections under different authorizations or policies.
 
 Write
 
-\[
-O[M] = \operatorname{Project}(O, M, C)
-\]
+$$
+O[M] = \mathrm{Project}(O, M, C)
+$$
 
 where `M = metricIndices` is a typed list of metric selectors and `C` is a declared evaluation context. The result is a collection of *qualified metric values*, not merely a vector of real numbers. A metric value may carry:
 
@@ -106,9 +106,9 @@ A domain may reject a request at any stage. A **typed rejection** is preferable 
 
 For aligned metric projections `A` and `B`, a differential is defined by an operator family, not by one universal subtraction:
 
-\[
-\Delta_{m,p}(A,B\mid C) = D_{m,p}(\operatorname{Align}_{m,p}(A,B\mid C)),
-\]
+$$
+\Delta_{m,p}(A,B\mid C) = D_{m,p}(\mathrm{Align}_{m,p}(A,B\mid C)),
+$$
 
 where `m` identifies the metric, `p` the comparator policy, and `C` the evaluation context. `Align` may return a valid aligned pair, a qualified partial alignment, or a failure. Only valid alignments may enter operators whose contracts require full compatibility.
 

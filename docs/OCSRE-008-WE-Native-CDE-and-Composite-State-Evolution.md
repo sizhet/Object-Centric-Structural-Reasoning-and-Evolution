@@ -40,9 +40,9 @@ Three motivating cases illustrate the range: a bus route may be rearranged under
 
 Let a container be represented schematically as
 
-\[
+$$
 S = (I, V, T, P, O, R, A, C, E, H, G),
-\]
+$$
 
 where `I` denotes identity references; `V`, versions; `T`, temporal scope; `P`, perspectives; `O`, object attribute states; `R`, typed relations; `A`, resource/authority assignments; `C`, constraints; `E`, evidence and provenance; `H`, transition history; and `G`, governance metadata. This is an **interface schema**, not a claim that every implementation must materialize an eleven-field record.
 
@@ -54,15 +54,15 @@ A single-WE container may still refer to external constraints. A composite conta
 
 A proposed Delta can be described as
 
-\[
+$$
 \delta = (k, owner, pre, reads, writes, effects, guards, evidence, undo, authority),
-\]
+$$
 
 with operation kind `k`, declared owner, pre-state reference, read/write sets, typed effects, guards, evidence requirements, compensating/undo semantics and authority requirements. A candidate transition is
 
-\[
+$$
 S' = Apply(S,\delta), \quad Valid(S,\delta,S') \in \{pass, fail, unknown\}.
-\]
+$$
 
 `unknown` must not be treated as `pass` for a safety-critical invariant. A Delta may alter an attribute, relation, composite membership, assignment, schedule, metric configuration, or policy proposal. Not all Delta kinds should be allowed in all containers.
 
@@ -128,9 +128,9 @@ The previously proposed *same-path Delta non-reuse* rule requires a precise defi
 
 The ODK can compare `Object[metricIndices]` projections before and after a candidate Delta, subject to metric typing, unit normalization, temporal alignment, granularity and perspective constraints. A schematic evaluation is
 
-\[
+$$
 Q(S,\delta,S') = Evaluate_{ODK}(Project(S), Project(S');\ M,P,E),
-\]
+$$
 
 where `M` is a metric specification, `P` a perspective policy, and `E` evidence/qualification. This is not a universal numeric utility function: different perspectives may produce incomparable or conflicting evaluations.
 
