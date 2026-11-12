@@ -83,7 +83,7 @@ Composite state requires constraints that are not reducible to independent per-o
 5. **Perspective/policy invariants:** optimization goals versus hard feasibility constraints.
 6. **Authority invariants:** changes must remain within authorized scope.
 
-For a container state \(S\), a proposed Delta \(\delta\) is eligible only if its preconditions hold and every applicable hard constraint is satisfied by the candidate \(S'=\operatorname{Apply}(S,\delta)\). This is a proposed interface obligation, not a guarantee that every domain's constraints are decidable.
+For a container state $S$, a proposed Delta $\delta$ is eligible only if its preconditions hold and every applicable hard constraint is satisfied by the candidate $S'=\mathrm{Apply}(S,\delta)$. This is a proposed interface obligation, not a guarantee that every domain's constraints are decidable.
 
 ## 6. Typed Delta envelope
 
