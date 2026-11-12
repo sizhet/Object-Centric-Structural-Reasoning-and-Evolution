@@ -136,22 +136,22 @@ An ODK differential can report `Δ active buses = -1`; it cannot by itself certi
 
 Let `T` be trips and `B` be buses. Define binary `x[t,b]` for assigning trip `t` to bus `b`, and `y[b]` for whether bus `b` is used. For the restricted interval model:
 
-\[
+$$
 \min \sum_{b\in B} y_b
-\]
+$$
 
 subject to
 
-\[
+$$
 \sum_{b\in B} x_{t,b}=1 \quad \forall t\in T,
 \qquad x_{t,b}\le y_b,
-\]
+$$
 
 and, for any pair of overlapping trips `t,u`,
 
-\[
+$$
 x_{t,b}+x_{u,b}\le 1 \quad \forall b\in B.
-\]
+$$
 
 Additional eligibility and capacity constraints can prohibit infeasible assignments. This compact model is intentionally **not** a full vehicle-routing formulation: it assumes fixed trip intervals and prevalidated trip contents. General scheduling requires travel-time matrices, stop sequencing, student-specific pickup/drop-off and accessibility constraints, driver resources, and robust time-window checks. Those additions alter the feasible set and possibly the optimum.
 

@@ -127,9 +127,9 @@ Source objects are school-bus trip assignments with `planned_passengers` and `ra
 
 A potentially reusable **pure operator** is:
 
-\[
-U(o,t,p)=\frac{\operatorname{Load}(o,t,p)}{\operatorname{Capacity}(o,t,p)},\quad \operatorname{Capacity}>0.
-\]
+$$
+U(o,t,p)=\frac{\mathrm{Load}(o,t,p)}{\mathrm{Capacity}(o,t,p)},\quad \mathrm{Capacity}>0.
+$$
 
 The ratio is dimensionless only after source and target quantities have been verified as compatible within their own domain. The operation does not imply that passenger capacity and warehouse capacity are interchangeable real-world concepts.
 
@@ -308,9 +308,9 @@ For each target domain, compare at least: **B0** a native, hand-built solution; 
 
 A proposed net benefit definition is:
 
-\[
+$$
 B_{net}=V_{target}-C_{integration}-C_{validation}-C_{maintenance}-C_{risk},
-\]
+$$
 
 where each term must be defined in a common, declared unit or reported as a multidimensional vector rather than arbitrarily added. `V_target` is the target-specific value relative to a baseline, not an intrinsic score assigned by the relay system.
 

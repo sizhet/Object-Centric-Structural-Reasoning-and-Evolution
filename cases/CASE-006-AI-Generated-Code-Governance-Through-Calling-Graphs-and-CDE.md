@@ -148,9 +148,9 @@ These are **expected results of proposed tests**, not reports of executed tests.
 
 Instead of one universal graph, define a typed family:
 
-\[
+$$
 G = (G_{call}, G_{data}, G_{control}, G_{config}, G_{schema}, G_{policy}, G_{test}, G_{deploy})
-\]
+$$
 
 Each graph has an extraction method, version, coverage boundary, and edge semantics. Cross-graph joins require explicit object-resolution contracts. A shared symbol name is not enough to merge nodes.
 
@@ -199,9 +199,9 @@ UTN provides a potential shared structural localization interface, not a magical
 
 For a code object `o`, define a metric projection under perspective `p` and revision `r`:
 
-\[
+$$
 M(o,p,r) = [m_{interface},m_{effects},m_{policy},m_{tests},m_{dependencies},m_{uncertainty}]
-\]
+$$
 
 Each component has a type, source, time/build scope, interpretation, and admissible comparison operator. These components are **not** automatically commensurable, and their numerical aggregation is optional and policy-governed.
 
