@@ -4,7 +4,7 @@
 **Release:** `v1.0.0` (proposed GitHub release tag)  
 **Release type:** Research framework, conceptual architecture, and proposed contracts  
 **Authors (proposed attribution):** Sizhe Tan & GPT-Obot  
-**License:** Apache-2.0 (confirm the `LICENSE` file is present before publishing)  
+**License:** Apache-2.0 
 **Repository:** https://github.com/sizhet/Object-Centric-Structural-Reasoning-and-Evolution  
 **DOI:** Not yet assigned; add the version-specific Zenodo DOI after archival.  
 **Release date:** To be set when the GitHub release is published.
@@ -53,7 +53,7 @@ The Calling Graph → UTN → OCSRE research path proposes typed structural loca
 
 ## What is included
 
-The planned v1.0.0 repository contains the following **research artifacts**, to be verified against the assembled release tree:
+The v1.0.0 repository contains the following **research artifacts**, to be verified against the assembled release tree:
 
 | Area | Count | Contents |
 | --- | ---: | --- |
@@ -115,7 +115,7 @@ The repository includes [`CITATION.cff`](../CITATION.cff) and [`.zenodo.json`](.
 ## Release assembly checklist
 
 - [ ] Confirm the `v1.0.0` tag and the actual GitHub release contents.
-- [ ] Verify every planned `docs/`, `specs/`, `cases/`, `extensions/`, `research-trace/`, and `figures/` file exists at the linked path.
+- [ ] Verify every `docs/`, `specs/`, `cases/`, `extensions/`, `research-trace/`, and `figures/` file exists at the linked path.
 - [ ] Verify root navigation links, figure captions, terminology, and cross-references.
 - [ ] Add and verify the full Apache-2.0 `LICENSE` file; check attribution consistency.
 - [ ] Confirm `CITATION.cff` and hidden `.zenodo.json` are valid and contain matching metadata.
