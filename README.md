@@ -216,6 +216,7 @@ Figures are **conceptual illustrations**, not formal proofs or evidence of imple
 **Authors:** Sizhe Tan & GPT-Obot  
 **Release:** v1.0.0 — Research Framework and Contracts  
 **License:** Apache-2.0  
+**DOI:** 10.5281/zenodo.24487827
 
 ---
 

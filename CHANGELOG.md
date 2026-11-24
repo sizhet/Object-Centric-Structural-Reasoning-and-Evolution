@@ -152,7 +152,7 @@ The following are **not marked completed by this changelog** until their files a
 ## [vX.Y.Z] — YYYY-MM-DD
 
 **Release URL:** <verified link>
-**DOI:** <verified DOI or 'not assigned'>
+**DOI:** 10.5281/zenodo.24487827
 
 ### Added
 - <new research artifacts or contracts>
