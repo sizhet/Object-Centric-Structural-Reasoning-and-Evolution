@@ -103,7 +103,9 @@ Validated capability transfer is distinguished from untargeted spillover and fro
 └── release/                           # Release notes and RG assets
 ```
 
-The map is the **target v1.0.0 repository layout**. Some root-level release/navigation assets may still be in preparation. Links become functional once the corresponding files are committed at these paths.
+The repository layout below describes the v1.0.0 research
+release. All linked artifacts are included in the release
+unless explicitly identified as future work.
 
 ### 4.1 Core research papers (`docs/`)
 
@@ -211,7 +213,7 @@ Figures are **conceptual illustrations**, not formal proofs or evidence of imple
 ## 10. Citation, release and license
 
 **Project:** *Object-Centric Structural Reasoning and Evolution (OCSRE)*  
-**Authors (proposed):** Sizhe Tan & GPT-Obot  
+**Authors:** Sizhe Tan & GPT-Obot  
 **Release:** v1.0.0 — Research Framework and Contracts  
 **License:** Apache-2.0  
 

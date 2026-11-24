@@ -5,7 +5,7 @@
 **Authors (proposed):** Sizhe Tan & GPT-Obot  
 **License:** Apache-2.0 (repository licensing to be checked at release)  
 **Document status:** Draft release history; **no GitHub release, DOI, Zenodo deposit, implementation, or validation is asserted by this document**.  
-**Last updated:** 2026-11-06 (document preparation; not a release timestamp)
+**Last updated:** 2026-11-23 (document preparation; not a release timestamp)
 
 This changelog records the **research assets and conceptual baseline** prepared for the first OCSRE repository release. It distinguishes *authored*, *planned*, *released*, and *validated* work. A filename listed here denotes a proposed or drafted research artifact, not an executable implementation or empirical result.
 

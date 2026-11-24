@@ -87,21 +87,21 @@ Conceptual illustrations for navigation and explanation; figure artwork is not e
 
 ## 7. Root navigation, research and metadata files (13)
 
-| File | Role | Authoring status |
-|---|---|---|
-| [README.md](README.md) | Project thesis, architecture and entry points | Drafted |
-| [START-HERE.md](START-HERE.md) | Guided reading paths | Drafted |
-| [CONTENTS.md](CONTENTS.md) | Canonical file index | Drafted |
-| [GLOSSARY.md](GLOSSARY.md) | Reader-facing terminology | Planned |
-| [FIGURE-INDEX.md](FIGURE-INDEX.md) | Figure descriptions and insertion guide | Planned |
-| [FUTURE-DIRECTIONS.md](FUTURE-DIRECTIONS.md) | Long-term research directions | Planned |
-| [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) | Open research questions | Planned |
-| [TESTABLE-HYPOTHESES.md](TESTABLE-HYPOTHESES.md) | Falsifiable claims and experiment hooks | Planned |
-| [VALIDATION-ROADMAP.md](VALIDATION-ROADMAP.md) | Validation milestones and evidence gates | Planned |
-| [CHANGELOG.md](CHANGELOG.md) | Version history | Planned |
-| [CITATION.cff](CITATION.cff) | Citation metadata | Planned |
-| [.zenodo.json](.zenodo.json) | Zenodo deposit metadata | Planned |
-| [LICENSE](LICENSE) | Apache-2.0 license text | Planned |
+| File | Role | 
+|---|---|
+| [README.md](README.md) | Project thesis, architecture and entry points |
+| [START-HERE.md](START-HERE.md) | Guided reading paths | 
+| [CONTENTS.md](CONTENTS.md) | Canonical file index | 
+| [GLOSSARY.md](GLOSSARY.md) | Reader-facing terminology | 
+| [FIGURE-INDEX.md](FIGURE-INDEX.md) | Figure descriptions and insertion guide | 
+| [FUTURE-DIRECTIONS.md](FUTURE-DIRECTIONS.md) | Long-term research directions | 
+| [OPEN-QUESTIONS.md](OPEN-QUESTIONS.md) | Open research questions | 
+| [TESTABLE-HYPOTHESES.md](TESTABLE-HYPOTHESES.md) | Falsifiable claims and experiment hooks | 
+| [VALIDATION-ROADMAP.md](VALIDATION-ROADMAP.md) | Validation milestones and evidence gates | 
+| [CHANGELOG.md](CHANGELOG.md) | Version history | 
+| [CITATION.cff](CITATION.cff) | Citation metadata | 
+| [.zenodo.json](.zenodo.json) | Zenodo deposit metadata | 
+| [LICENSE](LICENSE) | Apache-2.0 license text | 
 
 **Note:** `CONTENTS.md` is the file being delivered now. “Drafted” means authored, not release-validated.
 

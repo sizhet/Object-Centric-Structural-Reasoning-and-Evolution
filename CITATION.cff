@@ -26,6 +26,7 @@ repository-code: 'https://github.com/sizhet/Object-Centric-Structural-Reasoning-
 url: 'https://github.com/sizhet/Object-Centric-Structural-Reasoning-and-Evolution'
 version: 1.0.0
 license: Apache-2.0
+date-released: '2026-11-23'
 keywords:
   - structural intelligence
   - object-centric reasoning
