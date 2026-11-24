@@ -5,4 +5,4 @@ Object-Centric Structural Reasoning and Evolution (OCSRE) proposes a research fr
 Proposed attribution: Sizhe Tan and GPT-Obot.
 License: Apache-2.0.
 Release: v1.0.0 — Research Framework and Contracts.
-DOI: Will be added after an actual Zenodo release.
+DOI: 10.5281/zenodo.24487827

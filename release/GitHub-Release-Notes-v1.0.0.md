@@ -6,7 +6,7 @@
 **Authors (proposed attribution):** Sizhe Tan & GPT-Obot  
 **License:** Apache-2.0 
 **Repository:** https://github.com/sizhet/Object-Centric-Structural-Reasoning-and-Evolution  
-**DOI:** Not yet assigned; add the version-specific Zenodo DOI after archival.  
+**DOI:** 10.5281/zenodo.24487827 
 **Release date:** To be set when the GitHub release is published.
 
 > **Publication status.** These notes are prepared for a prospective v1.0.0 release. Their existence does not imply that the tag, GitHub release, Zenodo archive, or DOI already exists. The repository presents research proposals and contracts—not a certified implementation or empirically validated intelligence system.
